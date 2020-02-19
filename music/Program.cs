@@ -11,6 +11,7 @@ namespace music
             Console.WriteLine("Enter Scale \n 1.Major \n 2.Minor");
             string scale=Console.ReadLine();
             string[] b= { "C","C#","D","D#","E","F","F#","G","G#","A","A#","B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B" };
+            Console.WriteLine("Enter value:");
             string val = Console.ReadLine();
             int pos=0;
             int i,j;
