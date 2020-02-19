@@ -23,14 +23,14 @@ namespace music
                 }
             }
             Console.Write(b[pos]+" ");
-            //Console.WriteLine(pos);
+           
 
             if (scale == "1")
             {
                 for (int k = 0; k < 7; k++)
                 {
                     s[k] = major[k];
-                    //Console.WriteLine(s[k]);
+                    
                 }
             }
             else 
@@ -38,7 +38,7 @@ namespace music
                 for (int k = 0; k < 7; k++)
                 {
                     s[k] = minor[k];
-                    //Console.WriteLine(s[k]);
+                   
                 }
             }
 
