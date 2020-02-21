@@ -1,0 +1,86 @@
+[
+    {
+      "sequence": 2212221,
+      "name": "Major"
+    },
+    {
+      "sequence": 2212221,
+      "name": "Ionian"
+    },
+    {
+      "sequence": 2122212,
+      "name": "Dorian"
+    },
+    {
+      "sequence": 1222122,
+      "name": "Phrygian"
+    },
+    {
+      "sequence": 2221221,
+      "name": "Lydian"
+    },
+    {
+      "sequence": 2212212,
+      "name": "Mixolydian"
+    },
+    {
+      "sequence": 2122122,
+      "name": "Minor"
+    },
+    {
+      "sequence": 2122122,
+      "name": "Aeolian"
+    },
+    {
+      "sequence": 1221222,
+      "name": "Locrian"
+    },
+    {
+      "sequence": 2122122,
+      "name": "Natural Minor"
+    },
+    {
+      "sequence": 2122131,
+      "name": "Harmonic Minor"
+    },
+    {
+      "sequence": 2122221,
+      "name": "Melodic Minor"
+    },
+    {
+      "sequence": 2221212,
+      "name": "Acoustic Scale"
+    },
+    {
+      "sequence": 213113212,
+      "name": "Algerian Scale"
+    },
+    {
+      "sequence": 1212222,
+      "name": "Super Locrian Scale"
+    },
+    {
+      "sequence": 313131,
+      "name": "Augmented Scale"
+    },
+    {
+      "sequence": 22122111,
+      "name": "Bebop Dominant Scale"
+    },
+    {
+      "sequence": 321132,
+      "name": "Blues Scale"
+    },
+    {
+      "sequence": 1111111111111,
+      "name": "Chromatic Scale"
+    },
+    {
+      "sequence": 22323,
+      "name": "Pentatonic Major Scale"
+    },
+    {
+      "sequence": 32232,
+      "name": "Pentatonic Minor Scale"
+    }
+  ]
